@@ -1,0 +1,2 @@
+# metodoSimplex
+software metodo simplex
